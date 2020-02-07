@@ -1,0 +1,7 @@
+Hostname: cs5200-spring2020-bao.c8jzluo6mljw.us-east-2.rds.amazonaws.com
+
+Port: 3306
+
+Username: yifan
+
+Password: byf8522479
