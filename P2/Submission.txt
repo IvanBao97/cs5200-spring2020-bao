@@ -1,0 +1,7 @@
+Integrating Spring Boot with MySQL
+
+http://cs5200-spring2020-bao.us-east-2.elasticbeanstalk.com/api/hello/insert
+
+http://cs5200-spring2020-bao.us-east-2.elasticbeanstalk.com/api/hello/insert/Java is the best language
+
+http://cs5200-spring2020-bao.us-east-2.elasticbeanstalk.com/api/hello/select/all
