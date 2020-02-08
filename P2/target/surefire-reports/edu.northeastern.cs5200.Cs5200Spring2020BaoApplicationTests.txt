@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.northeastern.cs5200.Cs5200Spring2020BaoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.308 s - in edu.northeastern.cs5200.Cs5200Spring2020BaoApplicationTests
