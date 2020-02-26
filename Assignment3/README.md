@@ -1,0 +1,1 @@
+# Please run create.sql before test code of JDBC
