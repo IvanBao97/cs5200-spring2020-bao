@@ -1,1 +1,1 @@
-# Please run create.sql before test code of JDBC
+# Please run create.sql and storedProcedure.sql before test code of JDBC
