@@ -1,0 +1,15 @@
+{
+  "name": "cs5200_spring2020_bao_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yifan Bao",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.6"
+  }
+}
